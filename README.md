@@ -1,4 +1,4 @@
-# Chrome OS Flex compatibility list
+# ChromeOS Flex compatibility list
 **TODO**: Project information
 
 | Device                | Status       | Comment         |
