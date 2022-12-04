@@ -1,5 +1,5 @@
 # ChromeOS Flex compatibility list
-**TODO**: Project information
+This list contains devices not listed on the [ChromeOS certified models list](https://support.google.com/chromeosflex/answer/11513094?hl=en) but verified by ChromeOS Flex users.
 
 | Device                | Status       | Comment         |
 | --------------------- | ------------ | --------------- |
