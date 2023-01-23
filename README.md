@@ -9,6 +9,5 @@ This list contains devices not listed on the [ChromeOS certified models list](ht
 | Lenovo IdeaPad 1-14IGL05 | Major issues | Broken touchpad |
 | Lenovo Thinkpad T61 | Major issues | OEM WiFi card doesn't connect to every network (Installed modded BIOS and a different WiFi card), sound through the speakers doesn't work all the time (Put the device to sleep mode to fix), no Crostini & fingerprint scanner.|
 | Toshiba Satellite L745 | Minor issues | Bluetooth not detecting some devices |
-| ASUS VivoBook Laptop X515JA-212 | Major issues | OEM WiFi/BT card not supported   
-| | | Replaced with REALTEK RTL8822BE |
+| ASUS VivoBook Laptop X515JA-212 | Major issues | OEM WiFi/BT card not supported</br>Replaced with REALTEK RTL8822BE |
 
